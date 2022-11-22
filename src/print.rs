@@ -1,4 +1,4 @@
-pub fn run() {
+pub fn _run() {
     // Print to console
     println!("Hello from the print.rs file");
 
