@@ -2,7 +2,7 @@
 // Variables are immutable by default
 // Rust is a block-scoped language
 
-pub fn run() {
+pub fn _run() {
     let name = "António";
     let mut age = 26;    
 
