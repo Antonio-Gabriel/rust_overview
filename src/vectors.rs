@@ -2,7 +2,7 @@
 
 use std::mem;
 
-pub fn run() {
+pub fn _run() {
     let mut numbers: Vec<i32> = vec![1, 2, 3, 4, 5];
 
     println!("{:?}", numbers);
