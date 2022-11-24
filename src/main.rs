@@ -5,10 +5,12 @@ mod conditionals;
 mod enums;
 mod functions;
 mod loops;
+mod matchs;
 mod pointers_ref;
 mod print;
 mod strings;
 mod structs;
+mod traits;
 mod tuples;
 mod types;
 mod vars;
@@ -47,4 +49,6 @@ fn main() {
     pointers_ref::_run();
     structs::_run();
     enums::_run();
+    matchs::_run();
+    traits::_run();
 }
